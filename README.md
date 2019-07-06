@@ -1,3 +1,16 @@
 # -Management-system-of-Aryabhatta-Science-Centre
 Data entry of Sports management system of students at different levels-Block,District and State.
 ![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/9.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/10.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master11.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/12.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/13.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/14.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/15.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/16.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/17.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/18.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/19.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/20.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/21.png)
+![alt text](https://raw.githubusercontent.com/debojit08/-Management-system-of-Aryabhatta-Science-Centre/master/22.png)
